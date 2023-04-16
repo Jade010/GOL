@@ -1,17 +1,5 @@
 package GOL;
 
-/************************************************
- * Name: Jade Aidoghie; WSU ID: 11775092
- * Date: 04/11/2023
- * Course: CPT_S 132 Section 01, Spring 23
- * Assignment: HW11 src.Life - Controller
- * Level: N/A
- * Description: This project adds a controller, threads and mouse clicking events to the
- * GUI version of the game of life.
- * Grade Level: N/A
- ************************************************/
-
-
 /**
  * Class to represent src.Life game board
  * @author Jade Aidoghie
