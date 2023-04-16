@@ -5,18 +5,15 @@ import java.awt.*;
 import java.awt.event.*;
 
 /************************************************
- * Name: Jade Aidoghie; WSU ID: 11775092
- * Date: 04/11/2023
- * Course: CPT_S 132 Section 01, Spring 23
- * Assignment: HW11 src.Life - Controller
- * Level: N/A
+ * Life - Controller
+ *
  * Description: This project adds a controller, threads and mouse clicking events to the
  * GUI version of the game of life.
- * Grade Level: N/A
  ************************************************/
+ 
 
 /**
- * src.Cell class that extends JComponent to draw the
+ * Cell class that extends JComponent to draw the
  * individual cells of the game board.
  * @author Jade Aidoghie
  * @version 4/12/2023
