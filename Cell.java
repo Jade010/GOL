@@ -4,14 +4,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-/************************************************
- * Life - Controller
- *
- * Description: This project adds a controller, threads and mouse clicking events to the
- * GUI version of the game of life.
- ************************************************/
- 
-
 /**
  * Cell class that extends JComponent to draw the
  * individual cells of the game board.
